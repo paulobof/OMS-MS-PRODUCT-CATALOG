@@ -9,7 +9,7 @@
 		<relativePath/>
 	</parent>
 	<groupId>br.com.paulobof</groupId>
-	<artifactId>OMS-MS-PRODUCT-CATALOG</artifactId>
+	<artifactId>product-catalog</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>product-catalog</name>
 	<description>FIAP Project Fase 4</description>
